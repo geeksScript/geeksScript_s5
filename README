@@ -1,0 +1,13 @@
+#**************************************
+# This Bash Script accomplishes the following task:
+#------------------------------------
+# 1. It updates the squirdGuard conf file according to the data/folders in squidGuard db directory.
+# 2. It performs the following checks:
+#    a) This script needs to be run as root. It checks the same.
+#    b) Verifies the user input i.e. path of file/directory.	
+#------------------------------------
+# Script according to specific organisation's configuration.
+# Tested on Fedora.
+# Created by geeksScript | Kamal (http://geeksScript.com), Dated: 22-04-2013.
+#**************************************
+
